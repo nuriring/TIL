@@ -103,3 +103,4 @@ $ git commit -m "커밋 메세지"
   - `--reverse` : 커밋 내역의 순서를 반대로 보여주는 명령어
   - 
 
+프로필 setting -> repositories -> repository defalut branch 에서 master로 업데이트 해주세요
